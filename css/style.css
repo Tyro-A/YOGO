@@ -1,0 +1,61 @@
+/*=================================
+        Generic 
+===================================*/
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/*=================================
+        Header
+===================================*/
+
+.header {
+    background: #6900d1;
+}
+
+.navbar {
+    padding-top: 30px;
+     !important;
+}
+
+.nav-item {
+    margin-left: 40px;
+    margin-bottom: 10px;
+}
+
+.nav-link {
+    color: #fff !important;
+    font-size: 12px !important;
+    padding: 0 0 5px 0 !important;
+    display: unset !important;
+    text-transform: uppercase;
+}
+
+.navbar-brand img {
+    width: 125px;
+}
+
+.fa-bars {
+    color: #fff;
+    font-size: 40px !important;
+}
+
+.navbar-toggler {
+    border: 0 !important;
+    outline: none !important;
+    padding: initial !important;
+}
+
+.active-home {
+    border-bottom: 1px solid #fff;
+}
+
+.nav-link:hover {
+    border-bottom: 1px solid #fff;
+}
+
+
+
+
+
