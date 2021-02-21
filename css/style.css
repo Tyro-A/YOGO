@@ -332,19 +332,13 @@
     background: transparent;
 }
 
-.footer small {
+.footer p {
     font-size: 14px;
     padding: 70px;
     padding-bottom: 20px;
     color: #fff;
     display: block;
 }
-
-
-
-
-
-
 
 
 @media only screen and (max-width: 880px) {
